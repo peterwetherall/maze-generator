@@ -3,7 +3,7 @@ Warm your CPU while drawing cool maze patterns.
 
 A HTML5 canvas project which draws a unique "maze-like" pattern which can then be saved as an image.
 
-Live demo: [https://peter.ee/show/maze](https://peter.ee/show/maze)
+**Demo:** [https://peterwetherall.github.io/maze-generator/](https://peterwetherall.github.io/maze-generator/)
 
 ### Future ideas 💡
 
